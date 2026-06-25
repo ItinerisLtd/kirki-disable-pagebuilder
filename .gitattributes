@@ -10,6 +10,4 @@
 /README.md      -export-ignore
 /composer.json  -export-ignore
 /composer.lock  -export-ignore
-/config         -export-ignore
-/src            -export-ignore
 /vendor         -export-ignore
